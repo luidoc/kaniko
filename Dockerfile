@@ -1,2 +1,4 @@
+ARG BUILDER_HOME_DIR="/home/builder"
+
 FROM public.ecr.aws/lts/ubuntu
-CMD ["echo", "Hola a todos"]
+RUN ls /
