@@ -1,2 +1,2 @@
 FROM public.ecr.aws/lts/ubuntu
-RUN ls /
+RUN ls /tmp
