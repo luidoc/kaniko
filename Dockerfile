@@ -1,1 +1,1 @@
-FROM public.ecr.aws/lts/ubuntu
+FROM busybox
